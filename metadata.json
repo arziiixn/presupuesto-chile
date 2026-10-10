@@ -1,0 +1,6 @@
+{
+  "name": "Presupuesto Pro Chile - Control de Gastos Inteligente",
+  "description": "Aplicación chilena para el control de gastos personales en pesos (CLP) y gestión automatizada de presupuestos por categorías con reglas y alertas visuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
